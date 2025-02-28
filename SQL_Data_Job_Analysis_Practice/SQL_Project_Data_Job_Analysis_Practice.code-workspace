@@ -1,0 +1,46 @@
+{
+	"folders": [
+		{
+			"name": "SQL_Project_Data_Job_Analysis_Practice",
+			"path": "../../SQL_Project_Data_Job_Analysis_Practice"
+		},
+		{
+			"name": "csv_files",
+			"path": "../../../../Downloads/all_folders/csv_files"
+		},
+		{
+			"name": "project_sql",
+			"path": ".."
+		},
+		{
+			"name": "advanced_sql",
+			"path": "../../advanced_sql"
+		},
+		{
+			"name": "sql_load",
+			"path": "../../../../Downloads/all_folders/sql_load"
+		}
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 5432,
+				"driver": "PostgreSQL",
+				"name": "postgres",
+				"database": "postgres",
+				"username": "postgres"
+			},
+			{
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 5432,
+				"driver": "PostgreSQL",
+				"name": "sql_course",
+				"database": "sql_course",
+				"username": "postgres"
+			}
+		]
+	}
+}
