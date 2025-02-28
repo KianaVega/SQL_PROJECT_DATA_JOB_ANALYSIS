@@ -57,7 +57,7 @@ Using **SQL and PostgreSQL**, the study reveals **which skills lead to better sa
 ✔ **Big Data & AI tools are emerging high-pay skills**
 
 ## 📂 How to Use This Project
-- Clone the repository and navigate to `project_sql`
+- Clone the repository and navigate to `SQL_PROJECT_DATA_JOB_ANALYSIS`
 - Run the SQL queries in a **PostgreSQL environment**
 - Analyze trends and identify the best career path!
 
